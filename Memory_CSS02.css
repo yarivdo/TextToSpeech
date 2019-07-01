@@ -1,0 +1,86 @@
+body {
+    background-color: #f2f0de;
+    font-family:sans-serif;
+}
+
+#titleArea {
+    height: 20%;
+    font-size: 30px;
+    text-align: center;
+    height: 15%;
+    border-radius: 8px;
+}
+
+#headline {
+    color: #246d4f;
+    height: 100%;
+    width: 100%;
+    font-weight: normal;
+    align-content: center;
+}
+
+#digitsArea {
+    
+    height: 30%;
+}
+
+#displayDigits {
+    margin-top: 10%;
+    align-items: center;
+    text-align: center;
+    font-size: 160px;
+    color: #775c20;
+}
+
+
+
+#userInput {
+   height: 20%;
+    
+}
+
+#inputBox {
+    color: black;
+    background-color: #b7ae9d;
+    border: solid 5px;
+    border-color: #246d4f;
+    height: 40%;
+    width: 30%;
+    align-items: center;
+    align-content: center;
+    margin-left: 35%;
+    text-align: center;
+    font-size: 160%;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 8px;
+        
+    
+}
+#btnSubmit {
+    width: 20%;
+    height: 25%;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 40%;
+    background-color: #246d4f;
+    border-radius: 8px;
+    border-color: #585340;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 100%;
+    font-weight: bolder;
+}
+
+#messageArea {
+    height: 10%;
+    color: #585340;
+    align-content: center;
+    text-align: center;
+    font-size: 130%;
+}
+
+
+
+
